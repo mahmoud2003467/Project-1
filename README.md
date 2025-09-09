@@ -1,12 +1,5 @@
 # Name
 Mahmoud Mostafa hassan
-### Name
+### qualification
 power engineer
-#### Name
-power engineer
-##### Name
-power engineer
-###### Name
-power engineer
-######## Name
-power engineer
+
